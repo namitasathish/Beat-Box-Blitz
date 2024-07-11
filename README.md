@@ -17,5 +17,5 @@ The game was originally created using the Scratch platform.
 To convert the game to HTML, a Scratch to HTML converter tool was used, enabling cross-platform compatibility and ease of access.
 ### Tools and Technologies
 - **Scratch:** Initial development platform.
-- **Scratch to HTML Converter:** Sheeptester's htmlifier Tool used to convert the game from Scratch to HTML.
+- **Scratch to HTML Converter:** Sheeptester's htmlifier Tool to convert the game from Scratch to HTML.
 
