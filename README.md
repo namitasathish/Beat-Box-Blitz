@@ -3,7 +3,7 @@
 BeatboxBlitz is an exciting rhythm-based game initially developed on Scratch with mechanics inspired by Geometry Dash. The game was later converted into HTML to make it accessible via web browsers.
 
 ## Playing the Game
-- Use the spacebar or mouse click to navigate through obstacles.
+- Use the spacebar to navigate through obstacles.
 - Follow the rhythm and time your actions to progress through the levels.
 
 ## Features
