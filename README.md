@@ -11,3 +11,11 @@ BeatboxBlitz is an exciting rhythm-based game initially developed on Scratch wit
 - **Engaging Mechanics**: Intricate and challenging obstacles to navigate through.
 - **Cross-Platform Accessibility**: Playable on any web browser after being converted from Scratch to HTML.
 
+ ## Development
+### Converting from Scratch to HTML
+The game was originally created using the Scratch platform.
+To convert the game to HTML, a Scratch to HTML converter tool was used, enabling cross-platform compatibility and ease of access.
+### Tools and Technologies
+Scratch: Initial development platform.
+Scratch to HTML Converter: Sheeptester's htmlifier Tool used to convert the game from Scratch to HTML.
+
